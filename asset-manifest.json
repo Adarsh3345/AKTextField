@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AKTextField/static/css/main.f855e6bc.css",
+    "main.js": "/AKTextField/static/js/main.eb78462e.js",
+    "static/js/453.fc9024c4.chunk.js": "/AKTextField/static/js/453.fc9024c4.chunk.js",
+    "index.html": "/AKTextField/index.html",
+    "main.f855e6bc.css.map": "/AKTextField/static/css/main.f855e6bc.css.map",
+    "main.eb78462e.js.map": "/AKTextField/static/js/main.eb78462e.js.map",
+    "453.fc9024c4.chunk.js.map": "/AKTextField/static/js/453.fc9024c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.eb78462e.js"
+  ]
+}
